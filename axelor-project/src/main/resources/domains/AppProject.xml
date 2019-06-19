@@ -6,7 +6,7 @@
 
 	<entity name="AppProject" lang="java" extends="App">
 		<string name="projectLabel" title="Project Label"/>
-		<boolean name="resourceManagement" title="Resource management" />
+		<boolean name="resourceManagement" title="Resource Management" />
 		
 		<track>
 			<field name="projectLabel" on="UPDATE"/>
